@@ -7,18 +7,30 @@ description: Personal Portfolio
 
 # PROJECTS
 
-### 1997-06: ECMAScript 1
+### Electronics and Microchip programming
 
-First edition.
+A collection of arduino fun projects for learning arduino projects / electronics \
+In contribution with: \
+<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo = major2000/electronics-projects-collection"/>
+</a>
 
-### 1998-06: ECMAScript 2
+### Assembly and Stack overflow
 
-Editorial changes to keep the specification fully aligned with ISO/IEC 16262 international standard.
+Assembly language projects for educational purpose and malware analysis walk through
 
-### 1999-12: ECMAScript 3
+### ChatBots
 
-Added regular expressions, better string handling, new control statements, try/catch exception handling, tighter definition of errors, formatting for numeric output and other enhancements.
+AI convectional ChatBot for Banking system developed using rasa framework
 
-### 2000-01--2007-10-23: [Abandoned] ECMAScript 4
+### Genetic Algorithm
 
-Fourth Edition was abandoned, due to political differences concerning language complexity. Many features proposed for the Fourth Edition have been completely dropped; some were incorporated into the sixth edition.
+Timetable generator  using genetic algorithm a machine learning algorithm to solve complex problems.
+
+### System Hacking
+
+System brute forcing, password cracking, denial of service attack, hardware hacking and reverse engineering.
+
+### Malware analysis
+
+Malware analysis exploration and malware engineering.
