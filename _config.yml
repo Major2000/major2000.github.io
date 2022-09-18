@@ -6,7 +6,9 @@ paginate: 25
 url: https://major2000.github.io
 baseurl: ""
 
-
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 # Optional settings
 
 about_enabled: true 
@@ -73,10 +75,10 @@ exclude:
   - README.md
   - vendor/
   - yarn.lock
-plugins:
-  - jekyll-assets
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jemoji
+# plugins:
+#   - jekyll-assets
+#   - jekyll-paginate
+#   - jekyll-sitemap
+#   - jemoji
 paginate_path: /posts/page/:num/
 # permalink: posts/:slug
