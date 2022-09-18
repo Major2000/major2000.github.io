@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: index
+title: Edgar Nyandoro | Blog
 ---
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
