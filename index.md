@@ -10,10 +10,7 @@ description: Personal Portfolio
 ### Electronics and Microchip programming
 
 A collection of arduino fun projects for learning arduino projects / electronics \
-In contribution with: \
-<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo = major2000/electronics-projects-collection"/>
-</a>
+In contribution with: @jackkweyuga
 
 ### Assembly and Stack overflow
 
