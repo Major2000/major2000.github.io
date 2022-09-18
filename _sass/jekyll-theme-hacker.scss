@@ -259,6 +259,10 @@ hr {
   background: url("/assets/images/linkedin.png") 0 0 no-repeat;
 }
 
+.btn-home .icon {
+  background: url("/assets/images/home.png") 0 0 no-repeat;
+}
+
 
 // Links
    a, a:hover, a:visited,
@@ -300,5 +304,5 @@ a {
 
 br {
   display: block;
-  margin: 20px 0;
+  line-height: 150%;
 }
