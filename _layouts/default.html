@@ -4,6 +4,7 @@
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/x-icon" href="{{ /assets/images/blackbug.png | border-radius: 50% }}">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <title>{{ page.title }}</title>
     {% include head-custom.html %}
@@ -22,6 +23,7 @@
 
         <section id="downloads">
           <a href="/" title="home" class="btn btn-home"><span class="icon"></span>Home</a>
+
           <a href="/pages/about.html" title="About me" class="btn btn-about"><span class="icon"></span>About</a>  
 
           <a href="https://github.com/major2000" title="GitHub" class="btn btn-github"><span class="icon"></span>GitHub</a>
@@ -42,5 +44,15 @@
         {{ content }}
       </section>
     </div>
+
+    <footer class="footer {% if site.scrollappear_enabled %}scrollappear{% endif %}">
+      <p style="text-align: center">
+        Edgar Nyandoro <br>
+        © 2022  
+        
+      </p>
+    </footer>
+
+
   </body>
 </html>
