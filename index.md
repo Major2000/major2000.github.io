@@ -2,33 +2,23 @@
 layout: index
 title: Edgar Nyandoro | Blog
 head: Edgar Nyandoro
-description: Personal Portfolio Blog
+description: Personal Portfolio
 ---
 
-[Link to another page](./pages/another-page.html).
+# PROJECT RELEASE TIMELINE
 
-1066
-: September. Harald Hardrada, King of Norway, invades England
-: October. William of Normandy defeats and kills Harold II at Hastings.
+## 1997-06: ECMAScript 1
 
-1070
-: William the Conqueror subdues the north of England
-: First Norman stone castle is built in Wales.
+First edition.
 
-1076
-: 'Revolt of the Earls' ends with the execution of Waltheof, Earl of Northumbria.
+## 1998-06: ECMAScript 2
 
-1077
-: Bayeux Tapestry illustrating the Battle of Hastings is completed.
+Editorial changes to keep the specification fully aligned with ISO/IEC 16262 international standard.
 
-1085
-: Domesday Book is instituted to survey the English lands of William the Conqueror.
+## 1999-12: ECMAScript 3
 
-1086
-: Landholders swear loyalty to William the Conqueror at Salisbury.
+Added regular expressions, better string handling, new control statements, try/catch exception handling, tighter definition of errors, formatting for numeric output and other enhancements.
 
-1087
-: William the Conqueror dies at Rouen, Normandy.
+## 2000-01--2007-10-23: [Abandoned] ECMAScript 4
 
-1087
-: William II is crowned at Westminster Abbey.
+Fourth Edition was abandoned, due to political differences concerning language complexity. Many features proposed for the Fourth Edition have been completely dropped; some were incorporated into the sixth edition.
