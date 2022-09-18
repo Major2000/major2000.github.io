@@ -263,6 +263,10 @@ hr {
   background: url("/assets/images/home.png") 0 0 no-repeat;
 }
 
+.btn-phone .icon {
+  background: url("/assets/images/phone.png") 0 0 no-repeat;
+}
+
 
 // Links
    a, a:hover, a:visited,
@@ -304,5 +308,5 @@ a {
 
 br {
   display: block;
-  line-height: 150%;
+  line-height: 200%;
 }
