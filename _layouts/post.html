@@ -1,6 +1,7 @@
 <!doctype html>
 <html lang="en">
 {% include head.html %}
+
 <body>
   <main>
     <div class="grid grid-centered">
@@ -16,12 +17,12 @@
           <div class="article-content">
             {{ content }}
           </div>
-          
+
 
           {% if site.discus_identifier %}
-            <div id="disqus_thread" class="article-comments"></div>
-            <script src="https://{{ site.discus_identifier }}.disqus.com/embed.js" async defer></script>
-            <noscript>Please enable JavaScript to view the comments.</noscript>
+          <div id="disqus_thread" class="article-comments"></div>
+          <script src="https://{{ site.discus_identifier }}.disqus.com/embed.js" async defer></script>
+          <noscript>Please enable JavaScript to view the comments.</noscript>
           {% endif %}
         </article>
         {% include footer.html %}
@@ -30,4 +31,5 @@
   </main>
   {% include javascripts.html %}
 </body>
+
 </html>
