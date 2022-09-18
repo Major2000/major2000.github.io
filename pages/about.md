@@ -5,6 +5,6 @@ head: Edgar Nyandoro
 description: About
 ---
 
-<p>
+<p id="about">
     My name is <u>Edgar Nyandoro</u>
 </p>
