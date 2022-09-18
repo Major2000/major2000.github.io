@@ -10,7 +10,7 @@ description: Personal Portfolio
 ### Electronics and Microchip programming
 
 ```
-    A collection of arduino fun projects for learning arduino projects / electronics \
+    A collection of arduino fun projects for learning arduino projects / electronics
     In contribution with: @jackkweyuga
 ```
 
@@ -35,7 +35,8 @@ description: Personal Portfolio
 ### System Hacking
 
 ```
-    System brute forcing, password cracking, denial of service attack, hardware hacking and reverse engineering.
+    System brute forcing, password cracking, denial of service attack, hardware hacking 
+    and reverse engineering.
 ```
 
 ### Malware analysis
