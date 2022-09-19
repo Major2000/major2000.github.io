@@ -5,7 +5,7 @@ head: Edgar Nyandoro
 description: Personal Portfolio
 ---
 
-# PROJECTS SO FAR...
+# PROJECTS SO FAR ...
 
 ### Electronics and Microchip programming ⚙️
 
